@@ -1,0 +1,50 @@
+.layout{
+    margin: 0 0px;
+}
+.header{
+    background-color: #2fa127;
+    padding: 20px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+.logo{
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.716);
+    margin: 0 !important;
+    cursor: pointer;
+}
+.username{
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.668);
+}
+.ddl{
+float: right;
+justify-content: end;
+color: #2fa127;
+width: 50%;
+}
+.ddl button{
+    color: black;
+    border: none;
+    border-radius: 3px;
+    float: right;
+}
+.head{
+    float: left;
+    margin-left: 10px;
+}
+.content{
+    height: 85vh;
+    /* box-shadow: 0 0 3px gray; */
+    /* margin-top: 20px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    padding: 15px; */
+
+}
+/* #basic-nav-dropdown{
+margin-right: 0px !important;
+justify-content:end !important;
+} */
+
+

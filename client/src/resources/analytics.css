@@ -1,0 +1,10 @@
+.filter{
+    box-shadow: 0  0 3px gray;
+    padding: 15px 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.success{
+    color: white;
+    background-color: blue;
+}

@@ -1,0 +1,17 @@
+/* .row{
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+  
+} */
+.maxbudget{
+
+    width: 30%;
+}
+.budget{
+    display: flex;
+  
+    justify-content: center;
+    align-items: center;
+
+}
